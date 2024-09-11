@@ -1,10 +1,10 @@
-![image](https://github.com/user-attachments/assets/f314f016-8f85-40e5-b966-8e4a491f7fd2)![image](https://github.com/user-attachments/assets/660fc897-8146-415c-a949-68323ef21131)![image](https://github.com/user-attachments/assets/15266ded-eed2-488b-9308-c727a4abf7dc)![image](https://github.com/user-attachments/assets/28ae7abd-9b36-439a-b2eb-11bbde126373)Important Formulas
+Important Formulas
 ```
-**Sum of n natural numbers 		        :- Sn = n(n+1)/2**
+Sum of n natural numbers 		        :- Sn = n(n+1)/2
 
-**Sum of squares of n natural numbers  :- Sn = [n(n+1)(2n+1)] / 6**
+Sum of squares of n natural numbers  :- Sn = [n(n+1)(2n+1)] / 6
 
-**Sum of cubes of n natural numbers 	:- Sn  = [n2(n+1)2]/4**
+Sum of cubes of n natural numbers 	:- Sn  = [n2(n+1)2]/4
 ```
 1. The sum of first 49 natural number is 
 **ANSWER: 1225**
