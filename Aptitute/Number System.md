@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/99f8dec3-47f0-429f-b61a-06c72a7d2ecf)Important Formulas
+Important Formulas
 ```
 Sum of n natural numbers 		        :- Sn = n(n+1)/2
 
